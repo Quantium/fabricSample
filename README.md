@@ -45,7 +45,7 @@ python3 ls.py
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -62,4 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Thank you to everybody in the [Python](https://www.python.org/) team.
 + Thank you to the people who program and maintain [fabric](http://www.fabfile.org/)
 * Thank you very much to the guys of [Raspberry PI](https://www.raspberrypi.org/)
-* The Dog Bone Case was bought [here](https://www.amazon.com/gp/product/B01LVUVVOQ) 
+* The Dog Bone Case was bought [here](https://www.amazon.com/gp/product/B01LVUVVOQ)
