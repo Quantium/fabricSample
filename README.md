@@ -37,6 +37,14 @@ Just clone or fork this repository and run the samples with python from a termin
 python3 ls.py
 ```
 
+```
+ifconfig wlan0 down
+
+crontab -e
+
+@reboot sudo ifdown wlan0
+```
+
 ## Built With
 
 * [Python](https://www.python.org/) - The programming language
